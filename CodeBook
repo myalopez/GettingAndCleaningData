@@ -37,24 +37,24 @@ Code Book:
 
 These are the variables that satisfy the condition that only “measurements that were means or standard deviations” for each observations:
 
-     1     tBodyAcc-mean()-X: average time of the body acceleration in the X direction, sec
-     2     tBodyAcc-mean()-Y: average time of the body acceleration in the Y direction, sec
-     3     tBodyAcc-mean()-Z: average time of the body acceleration in the Z direction, sec
-     4     tBodyAcc-std()-X: standard deviation of the body acceleration in the X direction, sec 
-     5     tBodyAcc-std()-Y: standard deviation of the body acceleration in the Y direction, sec 
-     6     tBodyAcc-std()-Z: standard deviation of the body acceleration in the Z direction, sec
-   41     tGravityAcc-mean()-X: average time of the gravity acceleration in the X direction, sec 
-   42     tGravityAcc-mean()-Y: average time of the gravity acceleration in the Y direction, sec 
-   43     tGravityAcc-mean()-Z: average time of the gravity acceleration in the Z direction, sec
-   44     tGravityAcc-std()-X: standard deviation of the gravity acceleration in the X direction, sec 
-   45     tGravityAcc-std()-Y: standard deviation of the gravity acceleration in the Y direction, sec
-   46     tGravityAcc-std()-Z standard deviation of the gravity acceleration in the Z direction, sec 
-   81     tBodyAccJerk-mean()-X: average time of the body acceleration Jerk signals in the X direction, sec 
-   82     tBodyAccJerk-mean()-Y: average time of the body acceleration Jerk signals in the Y direction, sec 
-   83     tBodyAccJerk-mean()-Z: average time of the body acceleration Jerk signals in the Z direction, sec
-   84     tBodyAccJerk-std()-X: standard deviation of the body acceleration Jerk signals in the X direction, sec
-   85     tBodyAccJerk-std()-Y: standard deviation of the body acceleration Jerk signals in the Y direction, sec 
-   86      86     tBodyAccJerk-std()-Z: standard deviation of the body acceleration Jerk signals in the Z direction, sec
+   1     tBodyAcc-mean()-X: average time of the body acceleration in the X direction, sec
+   2     tBodyAcc-mean()-Y: average time of the body acceleration in the Y direction, sec
+   3     tBodyAcc-mean()-Z: average time of the body acceleration in the Z direction, sec
+   4     tBodyAcc-std()-X: standard deviation of the body acceleration in the X direction, sec 
+   5     tBodyAcc-std()-Y: standard deviation of the body acceleration in the Y direction, sec 
+   6     tBodyAcc-std()-Z: standard deviation of the body acceleration in the Z direction, sec
+  41     tGravityAcc-mean()-X: average time of the gravity acceleration in the X direction, sec 
+  42     tGravityAcc-mean()-Y: average time of the gravity acceleration in the Y direction, sec 
+  43     tGravityAcc-mean()-Z: average time of the gravity acceleration in the Z direction, sec
+  44     tGravityAcc-std()-X: standard deviation of the gravity acceleration in the X direction, sec 
+  45     tGravityAcc-std()-Y: standard deviation of the gravity acceleration in the Y direction, sec
+  46     tGravityAcc-std()-Z standard deviation of the gravity acceleration in the Z direction, sec 
+  81     tBodyAccJerk-mean()-X: average time of the body acceleration Jerk signals in the X direction, sec 
+  82     tBodyAccJerk-mean()-Y: average time of the body acceleration Jerk signals in the Y direction, sec 
+  83     tBodyAccJerk-mean()-Z: average time of the body acceleration Jerk signals in the Z direction, sec
+  84     tBodyAccJerk-std()-X: standard deviation of the body acceleration Jerk signals in the X direction, sec
+  85     tBodyAccJerk-std()-Y: standard deviation of the body acceleration Jerk signals in the Y direction, sec 
+  86     tBodyAccJerk-std()-Z: standard deviation of the body acceleration Jerk signals in the Z direction, sec
  121     tBodyGyro-mean()-X: average time of the gyroscope signals in the X direction, sec
  122     tBodyGyro-mean()-Y: average time of the gyroscope signals in the Y direction, sec
  123     tBodyGyro-mean()-Z: average time of the gyroscope signals in the Z direction, sec
