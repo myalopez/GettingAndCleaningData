@@ -5,7 +5,7 @@ Smartphones are equipped with various sensor technologies, two of which are the 
 Data Source:
 
 The data used in this data cleaning exercise is a subset of the “Human Activity Recognitions Using Smartphones Dataset” collected by Smartlab - Non Linear Complex Systems Laboratory, 
-University of Genoa, Genoa, Italy. The data were from 30 participants with ages ranging from 19 to 48 years old. Six human activities, namely: walking, walking upstairs or downstairs, sitting, standing and laying down were recorded by Samsung Galaxy S II smartphones worn on the waist by each participants.. A detailed description of the experiment and the data set is available at the UCI Machine Learning Repository [2].  This dataset was downloaded from the course website: 
+University of Genoa, Genoa, Italy. The data were from 30 participants with ages ranging from 19 to 48 years old. Six human activities, namely: walking, walking upstairs or downstairs, sitting, standing and laying down were recorded by Samsung Galaxy S II smartphones worn on the waist of each participants.. A detailed description of the experiment and the data set is available at the UCI Machine Learning Repository [2].  This dataset was downloaded from the course website: 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  on July 22, 2014. The dataset files used in this exercise consists of:
 
 1.	features.txt - list of all features
@@ -86,7 +86,7 @@ These are the variables that satisfy the condition that only “measurements tha
  345     fBodyAccJerk-mean()-X: average frequency of the body acceleration Jerk signals in the X direction
  346     fBodyAccJerk-mean()-Y: average frequency of the body acceleration Jerk signals in the y direction
  347     fBodyAccJerk-mean()-Z: average frequency of the body acceleration Jerk signals in the Z direction
- 348     fBodyAccJerk-std()-X: standard deviation of the frequency of the body acceleration Jerk signals in the X direction
+ 348     fBodyAccJerk-std()-X: standard deviation of the frequency of the body acceleration Jerk signals in the X    direction
  349     fBodyAccJerk-std()-Y: standard deviation of the frequency of the body acceleration Jerk signals in the Y direction 
  350     fBodyAccJerk-std()-Z: standard deviation of the frequency of the body acceleration Jerk signals in the Z direction
  424     fBodyGyro-mean()-X: average frequency of the gyroscope signals in the X direction
